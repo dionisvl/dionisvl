@@ -1,10 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+### <div align="center">I'm Den, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div> 
 </div>  
-  
-
-### <div align="center">I'm Den, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
-  
 
 - 🔭 I’m currently working on [phpqa.ru](https://phpqa.ru)  
   
@@ -90,7 +86,6 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
@@ -100,25 +95,9 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dionisvl&&style=flat-square" align="center" />
 </div>  
   
 
-<br/>  
 
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
