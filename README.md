@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<a href="#dionisvl">
-  <img src="https://github-readme-stats.vercel.app/api?username=dionisvl&show_icons=true&theme=tokyonight" alt="GitHub Stats" align="right" width="400" />
-</a>
-
 ## About Me
 
 - 💻 Working on backend web development projects
@@ -27,6 +23,7 @@
 - 🌐 Exploring Web3 technologies and blockchain development
 - 🚀 Always learning and experimenting with new tech stacks
 - 📚 Sharing knowledge through code contributions and documentation
+
 
 ## Tech Stack
 
@@ -99,10 +96,6 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" width="48" height="48" alt="Jenkins" />
-      <br>Jenkins
-    </td>
-    <td align="center" width="96">
       <img src="https://profilinator.rishav.dev/skills-assets/arduino.png" width="48" height="48" alt="Arduino" />
       <br>Arduino
     </td>
@@ -157,16 +150,26 @@
 
 ## Latest Projects
 
-<a href="https://github.com/dionisvl/your-project-1">
+<a href="https://github.com/dionisvl/my.web3.auth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dionisvl&repo=my.web3.auth&theme=tokyonight" />
 </a>
-<a href="https://github.com/dionisvl/your-project-2">
+<a href="https://github.com/dionisvl/tg-message-forwarder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dionisvl&repo=tg-message-forwarder&theme=tokyonight" />
 </a>
 
 ## Github Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dionisvl&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dionisvl&theme=github_dark)
-
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border:none; border-collapse:collapse;">
+  <tr>
+    <td align="center" style="border:none;">
+      <a href="https://github.com/dionisvl">
+        <img src="https://github-readme-stats.vercel.app/api?username=dionisvl&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:none;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dionisvl&theme=github_dark" alt="Profile Details" />
+    </td>
+  </tr>
+</table>
