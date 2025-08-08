@@ -16,13 +16,12 @@
   </a>
 </p>
 
-## About Me
-
-- 💻 Working on backend web development projects
-- 🔍 Passionate about clean code and efficient architecture
-- 🌐 Exploring Web3 technologies and blockchain development
-- 🚀 Always learning and experimenting with new tech stacks
-- 📚 Sharing knowledge through code contributions and documentation
+##  About Me
+- 💻 Technical leader in backend development with a focus on scalable, clean architecture
+- 🧠 Promoting best practices and mentoring within development teams
+- 🌐 Leading projects in blockchain, Web3, and NFT technologies
+- 🚀 Always exploring modern tech and driving innovation
+- 📚 Open-source contributor and advocate for clear documentation
 
 
 ## Tech Stack
