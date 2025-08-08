@@ -1,8 +1,4 @@
-# <div align="left">👋 Hello! I'm Denis</div>
-
-<div align="left">
-<h3>Backend Web3 Software Engineer</h3>
-</div>
+# <div align="left">👋 Hello and welcome</div>
 
 <p align="left">
   <a href="https://github.com/dionisvl">
